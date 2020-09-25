@@ -1,0 +1,8 @@
+{
+    "domain_tradeoff": 0.0,
+    "dropout": 0.2,
+    "lr": 0.00015,
+    "batch_size": 64,
+    "distance_mode": "linear",
+    "min_distance": 10
+}

@@ -1,0 +1,9 @@
+{
+    "num_layers": 6,
+    "base_filters": 16,
+    "latent_dim": 64,
+    "dropout": 0.1,
+    "lr": 0.01,
+    "batch_size": 256,
+    "num_disc_layers": 1
+}

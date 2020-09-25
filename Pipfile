@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu102"
+verify_ssl = false
+
+[packages]
+plotnine = "==0.7.1"
+numpy = "==1.19.1"
+mlflow = "==1.10.0"
+pytorch-lightning = "==0.10.0"
+pandas = "==1.1.3"
+tabulate = "==0.8.7"
+matplotlib = "*"
+tqdm = "==4.50.2"
+ray = "==1.0.0"
+scikit-learn = "==0.23.2"
+umap-learn = "==0.4.6"
+numba = "==0.51.2"
+PyTorch-ProbGraph = "==0.0.1"
+torch = "==1.6.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
