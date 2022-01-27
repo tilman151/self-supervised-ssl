@@ -1,7 +1,7 @@
 # Improving Semi-Supervised Learning for Remaining Useful Lifetime Estimation Through Self-Supervision
 
 This is the companion repository for the paper "*Improving Semi-Supervised Learning for Remaining Useful Lifetime Estimation Through Self-Supervision*".
-It is currently available as a manuscript on [arXiv](https://arxiv.org/abs/2108.08721) and under review at the RESS journal.
+It is available as a manuscript on [arXiv](https://arxiv.org/abs/2108.08721) or as a full journal article in [IJPHM](https://papers.phmsociety.org/index.php/ijphm/article/view/3096).
 
 ## Installation
 
